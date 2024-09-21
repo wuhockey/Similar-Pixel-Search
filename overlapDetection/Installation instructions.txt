@@ -1,0 +1,1 @@
+电脑上如果没有MATLAB 运行for_redistribution中的安装文件进行安装，如果有MATLAB，运行另外两个文件夹的exe就可以
