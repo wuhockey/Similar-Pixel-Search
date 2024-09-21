@@ -1,1 +1,1 @@
-电脑上如果没有MATLAB 运行for_redistribution中的安装文件进行安装，如果有MATLAB，运行另外两个文件夹的exe就可以
+If MATLAB is not available on the computer, run the installation file from for_dedistribution for installation. If MATLAB is available, run the exe files from the other two folders to complete the installation
